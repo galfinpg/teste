@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    background-color: rgb(41, 37, 37);
+}
+
+.imagem{
+    width: 300px;
+    height: 300px;
+}
+
+.letras{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    text-align: center;
+    margin-top: 10px;
+}
+
+.agradecimento{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    text-align: center;
+    margin-top: 10px;
+}
